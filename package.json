@@ -1,0 +1,27 @@
+{
+  "name": "transpiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transpiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moga26/transpiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moga26/transpiler/issues"
+  },
+  "homepage": "https://github.com/Moga26/transpiler#readme",
+  "dependencies": {
+    "node-html-parser": "^4.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}
